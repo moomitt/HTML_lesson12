@@ -50,6 +50,7 @@ main > .main-contents{
   padding : 20px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .main-contents > .main-box{
